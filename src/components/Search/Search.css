@@ -1,0 +1,20 @@
+.search_input{
+    width: 550px;
+    height: 24px;
+    border-radius: 10px 0px 0px 10px;
+    border-color: black;
+    background: whitesmoke;
+    outline: none;
+   
+}
+.search_btn{
+    height: 30px;
+    overflow-y: hidden;
+    border-radius: 0px 10px 10px 0px;
+    border-color: black;
+    outline: none;
+    
+}
+.Search{
+    position: fixed;
+}
